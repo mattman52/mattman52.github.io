@@ -38,7 +38,7 @@ The parent page contains:
 - An electronic medical record (EMR) system that integrates IUHealths telecommunication seamlessly
 - Ability to connect to bluetooth pumps and other gadgets so users can track their glucose levels easily without inputing any data
 - Adding more resources and information to strengthen out education section of the web app and app 
-- Implementing an adult patient interface that children will gain access to once they turn 18. This interface will contain content relevant to young adults as they transition to independent living
+- Implementing an adult diabetes patient interface that children will gain access to once they turn 18. This interface will contain content relevant to young adults as they transition to independent living
 
 
 ### Tools used in this project:
