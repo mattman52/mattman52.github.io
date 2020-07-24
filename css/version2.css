@@ -1,0 +1,48 @@
+/* This is the CSS file we used to design the pages for our web-app */
+
+body{
+  background-color:#F8F8F8;
+}
+header,#foot {
+ background-color: #7F110C;
+border-bottom: 2px solid black;
+}
+.nav-item,a, #foot {
+  color: white;
+  border-color: white;
+}
+#redlink{
+  color:#7F110C;
+  text-decoration: underline;
+}
+
+hr{
+  background-color: #7F110C;
+}
+#block {
+  color: #7F110C;
+}
+/* hr{
+  background-color: black;
+  #F8F8F8;
+} */
+
+.container-fluid{
+  color: black;
+}
+
+a:hover{
+  color: grey;
+}
+
+.container{
+  color: white;
+}
+
+.btn btn-primary{
+  background-color: #1D2C3E;
+}
+.text-uppercase{
+  padding-top: 15px;
+  color: black;
+}
