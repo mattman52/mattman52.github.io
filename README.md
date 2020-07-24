@@ -26,13 +26,13 @@ The parent page contains:
 **All of these pages have sources that we used on the bottom of each page. The *Home* page has sources on the tools we used to build the website and the websites we got help from**
 
 
-### Tools used in this project:**
+### Tools used in this project:
 We used [BootStrap](https://getbootstrap.com/) for styling, formating, and overall design of the web app
 We also used basic website development languages: HTML, CSS, and JavaScript
 
 We chose these tools as they are the easiest for a project like this and they full filled all the requirments we needed
 
-### Were you might get stuck###
+### Were you might get stuck
 The login page has no password. You can either click submit or enter something in the password box then hit submit.
 
 To get back to the Interface Selection screen click the T1DTutor at the top left of the screen. 
