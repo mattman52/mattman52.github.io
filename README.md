@@ -1,7 +1,7 @@
 # T1DTutor
 ## Created by: Diabet-Techs (Telehealth Team 5)
 
-###To launch the Web app 
+### To launch the Web app 
 You can click [here](https://mattman52.github.io) to launch a github pages link of the project. 
 OR you can download all files to local machine and begin by opening the index page on Google Chrome. Make sure all files are in the same directory. 
 
