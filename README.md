@@ -42,10 +42,11 @@ The parent page contains:
 
 
 ### Tools used in this project:
-We used [BootStrap](https://getbootstrap.com/) for styling, formating, and overall design of the web app
-We also used basic website development languages: HTML, CSS, and JavaScript
+- We used [BootStrap](https://getbootstrap.com/) for styling, formating, and overall design of the web app
+- We used [Repl.it](https://repl.it/~) as our main coding workstation as it allowed for real-time, collaborative coding
+- We also used basic website development languages: HTML, CSS, and JavaScript
 
-We chose these tools as they are the easiest for a project like this and they full filled all the requirments we needed
+We chose these tools as they are the easiest for a project like this and they fulfilled all the requirments we needed
 
 ### Where you might get stuck
 The login page has no password. You can either click submit or enter something in the password box then hit submit.
