@@ -31,13 +31,14 @@ The parent page contains:
 **All of these pages have sources that we used on the bottom of each page. The *Home* page has sources on the tools we used to build the website and the websites we got help from**
 
 ### Future roadmap
-- The ability for users to create accounts and customize what they want on the account. Ex.. when their child should check glucose levels
-- The ability for users to recieve push notifications for when they should check glucose levels. This will be a feature on the app
-- Building out a full app that integrates everything the web app has but in an easy to use app
+- The ability for users to create accounts and customize what they want on the account. Ex: when their child should check glucose levels
+- The ability for users to recieve push notifications for when they should check glucose levels. This will be a feature on the mobile app
+- Building out a full, easy to use, mobile app that integrates everything the web app contains
 - Data collection on when the user logs their glucose time and if they opt in the ability to log the glucose levels and how much insulin they took
-- An Emr system that integrates IUHealths telecommunication seemlessly
+- An electronic medical record (EMR) system that integrates IUHealths telecommunication seamlessly
 - Ability to connect to bluetooth pumps and other gadgets so users can track their glucose levels easily without inputing any data
 - Adding more resources and information to strengthen out education section of the web app and app 
+- Implementing an adult patient interface that children will gain access to once they turn 18. This interface will contain content relevant to young adults as they transition to independent living
 
 
 ### Tools used in this project:
