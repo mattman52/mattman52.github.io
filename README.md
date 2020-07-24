@@ -1,6 +1,10 @@
 # T1DTutor
 ## Created by: Diabet-Techs (Telehealth Team 5)
 
+###To launch the Web app 
+You can click [here](https://mattman52.github.io) to launch a github pages link of the project. 
+OR you can download all files to local machine and begin by opening the index page on Google Chrome. Make sure all files are in the same directory. 
+
 **Important note:** There is no password for this project. Just click the submit button to login. To get back to the interface screen click T1DTutor in the navigation bar.
 ### What to expect in this project
 This project is a web app. It is an information website about diabetes. There are **two interfaces** child and parent side.
