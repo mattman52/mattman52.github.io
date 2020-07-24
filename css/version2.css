@@ -15,11 +15,6 @@ border-bottom: 2px solid black;
   color:#7F110C;
   text-decoration: underline;
 }
-#foot {
-   position:absolute;
-   bottom:0;
-   width:100%;
-}
 hr{
   background-color: #7F110C;
 }
